@@ -1,4 +1,4 @@
-package com.leetcode.editor.cn;
+package com.leetcode.editor.cn.week_2nd;
 
 import org.junit.Test;
 
